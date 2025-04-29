@@ -2,6 +2,8 @@
     <string name="app_name">LionSchool</string>
     <string name= "logo_description">Logo description</string>
     <string name= "name"> Lion School</string>
+    <string name= "name1"> Lion</string>
+    <string name= "name2"> School</string>
     <string name= "frase_course"> Find your favorite course</string>
     <string name= "description">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
     <string name= "get_started"> Get Started</string>
@@ -23,4 +25,9 @@
     <string name= "todos"> Todos </string>
     <string name= "cursando"> Cursando</string>
     <string name= "Finalizado"> Finalizado</string>
+    <string name= "data1"> 2022</string>
+    <string name= "img1Name"> Luana Oliveira Dias</string>
+    <string name= "img1Numero">20151001018 </string>
+    <string name= "img2Name">Pedro da Silva Borges </string>
+
 </resources>

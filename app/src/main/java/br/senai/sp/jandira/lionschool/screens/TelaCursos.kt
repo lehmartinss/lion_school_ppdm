@@ -77,13 +77,23 @@ fun TelaCursos() {
                         .size(75.dp)
 
                 )
-                Text(
-                    text = stringResource(R.string.name),
-                    fontSize = 39.sp,
-                    fontWeight = FontWeight.Bold,
-                    color = Color(color = 0xFF3347B0)
+                Column(
+                    horizontalAlignment = Alignment.Start
+                ){
+                    Text(
+                        text = stringResource(R.string.name1),
+                        fontSize = 20.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = Color(color = 0xFF3347B0)
+                    )
+                    Text(
+                        text = stringResource(R.string.name2),
+                        fontSize = 20.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = Color(color = 0xFF3347B0)
+                    )
+                }
 
-                )
             }
             HorizontalDivider(
                 modifier = Modifier
