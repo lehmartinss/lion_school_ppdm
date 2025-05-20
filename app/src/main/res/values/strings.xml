@@ -26,8 +26,10 @@
     <string name= "cursando"> Cursando</string>
     <string name= "Finalizado"> Finalizado</string>
     <string name= "data1"> 2022</string>
-    <string name= "img1Name"> Luana Oliveira Dias</string>
-    <string name= "img1Numero">20151001018 </string>
-    <string name= "img2Name">Pedro da Silva Borges </string>
-
+    <string name= "Name1"> Luana Oliveira Dias</string>
+    <string name= "Name2">Pedro da Silva Borges </string>
+    <string name= "Name3">Ana Clara Gomes</string>
+    <string name= "Name4">Fabiana Luz Moraes</string>
+    <string name= "Name5">Carlos Augusto Nobre</string>
+    <string name= "Name6">Pedro Xavier</string>
 </resources>
